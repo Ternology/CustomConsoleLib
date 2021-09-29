@@ -1,1 +1,4 @@
-*.cs linguist-detectable=true
+*.* linguist-language=Pug
+*.* linguist-vendored=Pug
+
+*.cs linguist-vendored=true
