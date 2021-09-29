@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleStudentInfo/1.0.0": {
+        "dependencies": {
+          "CustomConsoleLib": "1.2.0"
+        },
+        "runtime": {
+          "ConsoleStudentInfo.dll": {}
+        }
+      },
+      "CustomConsoleLib/1.2.0": {
+        "runtime": {
+          "CustomConsoleLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleStudentInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomConsoleLib/1.2.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
